@@ -8,6 +8,7 @@ It fetches real-time weather data using the [OpenWeatherMap API](https://openwea
 ---
 
 ## 🚀 Features
+
 - Search weather by **city name**
 - Displays:
   - 🌡️ Temperature
@@ -21,11 +22,12 @@ It fetches real-time weather data using the [OpenWeatherMap API](https://openwea
 ---
 
 ## 🛠️ Tech Stack
+
 - **HTML5** → structure
 - **CSS3** → styling (modern UI with gradients & responsiveness)
 - **JavaScript (ES6)** → logic & API integration
 - **OpenWeatherMap API** → live weather data
 
 ---
-[Live Demo] -- https://itsrajaniket.github.io/Weather-App/
 
+[Live Demo] -- https://itsrajaniket.github.io/Weather-App/

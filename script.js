@@ -115,6 +115,6 @@ cityInput.addEventListener("keydown", (e) => {
   if (e.key === "Enter") doSearch();
 });
 
-// quick demo: optional - load a default city on start
+// quick demo: optional -- load a default city on start
 // (uncomment to auto-load)
 // window.addEventListener('load', () => { cityInput.value = 'Mumbai'; doSearch(); });
